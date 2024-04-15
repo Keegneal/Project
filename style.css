@@ -447,8 +447,9 @@ body {
 }
 
 p {
-    margin-left: 5rem; /* Adjusted */
-    font-size: 1rem; /* Adjusted */
+    margin-left: 4.5rem; /* Adjusted */
+    font-size: 1.5rem; /* Adjusted */
+    text-align: center;
 }
 
 .carousel-container {
